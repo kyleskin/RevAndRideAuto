@@ -1,0 +1,1 @@
+After cloning the project, CD into CarDealersip.API and then run ```dotnet ef database update``` before running the project.
